@@ -12,6 +12,7 @@ code .
 ´´´
 touch
 ´´´
+
 // Comando usado para baixar as dependencias
 ´´´
 npm init -y
